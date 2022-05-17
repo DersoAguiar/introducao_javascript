@@ -9,9 +9,6 @@
 
 
 ​	Na aula 6 - aprofundando em função, construímos uma calculadora utilizando somente o JavaScript.
-
-![image-20220517085721788](C:\Users\ander\AppData\Roaming\Typora\typora-user-images\image-20220517085721788.png)
-
-![image-20220517085826089](C:\Users\ander\AppData\Roaming\Typora\typora-user-images\image-20220517085826089.png)
-
-(trecho do código)
+<img src="C:\Users\ander\AppData\Roaming\Typora\typora-user-images\image-20220517085721788.png" alt="calculadora">
+ 
+<img src="C:\Users\ander\AppData\Roaming\Typora\typora-user-images\image-20220517085826089.png" alt="trecho do código">
